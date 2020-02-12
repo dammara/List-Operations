@@ -9,7 +9,7 @@ print("""--------------------------
 Welcome.
 For some reason, I really want to do some math,
 but first I need your help.
-Give me a whole number, and hit enter. 
+Give me a whole number (one at a time) and hit enter. 
 I need 5 digits in total
 --------------------------""")
 
